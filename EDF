@@ -1,0 +1,1 @@
+Usage: python3 exerciseJ.py input.csv POLICY(FCFS|SJF|RM|EDF) p|np
